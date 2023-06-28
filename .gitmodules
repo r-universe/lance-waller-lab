@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "envi"]
 	path = envi
 	url = https://github.com/lance-waller-lab/envi
-	shallow = true
-	registered = true
 [submodule "gateR"]
 	path = gateR
 	url = https://github.com/lance-waller-lab/gater
-	shallow = true
-	registered = true
